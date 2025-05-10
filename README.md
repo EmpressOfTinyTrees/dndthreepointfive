@@ -1,1 +1,103 @@
 # DnDThreePointFive
+
+This project will (someday) contain a program for character creation in Dungeons and Dragons 35 Edition.
+
+The code will be written following the Player's Handbook two pages at a time.
+
+This is update #1 with pages 4 and 5.
+
+### Contents 
+- Introduction — 4 <- YOU ARE HERE
+- Character Creation Summary — 6 
+- Chapter 1: Abilities — 7 
+	- Ability Scores — 7 
+	- The Abilities — 8
+	- Changing Ability Scores — 10 
+- Chapter 2: Races — 11 
+	- Choosing a Race — 11 
+	- Racial Characteristics — 11 
+	- Humans — 12 
+	- Dwarves — 14 
+	- Elves — 15 
+	- Gnomes — 16 
+	- Half-Elves — 18 
+	- Half-Orcs — 18 
+	- Halflings — 19 
+- Chapter 3: Classes — 21 
+	- The Classes — 21 
+	- Class and Level Bonuses — 21 
+	- Level-Dependent Benefits — 22 
+	- Class Descriptions — 23 
+	- Barbarian — 24 
+	- Bard — 26 
+	- Cleric — 30 
+	- Druid — 33 
+	- Fighter — 37 
+	- Monk — 39 
+	- Paladin — 42 
+	- Ranger — 46 
+	- Rogue — 49 
+	- Sorcerer — 51 
+	- Wizard — 55 
+	- Experience and Levels — 58 
+	- Multiclass Characters — 59 
+- Chapter 4: Skills — 61 
+	- Skills Summary — 61 
+	- Acquiring Skill Ranks — 61 
+	- Using Skills — 62
+	- Skill Descriptions — 66 
+- Chapter 5: Feats — 87 
+	- Acquiring Feats — 87 
+	- Prerequisites — 87
+	- Types of Feats — 87 
+	- Feat Descriptions — 89 
+- Chapter 6: Description — 103 
+	- Alignment — 103
+	- Religion — 106 
+	- Vital Statistics — 109 
+	- Looks, Personality, and Background — 110 
+	- Customizing Your Character — 110 
+- Chapter 7: Equipment — 111
+	- Equipping a Character — 111 
+	- Wealth and Money — 112 
+	- Weapons — 112
+	- Armor — 122 
+	- Goods and Services — 126 
+- Chapter 8: Combat — 133 
+	- The Battle Grid — 133 
+	- How Combat Works — 133 
+	- Combat Statistics — 133 
+	- Combat Basics — 135 
+	- Initiative — 136 
+	- Attacks of Opportunity — 137 
+	- Actions in Combat — 138
+	- Injury and Death — 145 
+	- Movement, Position, and Distance — 146 
+	- Combat Modifiers — 150 
+	- Special Attacks — 154 
+	- Special Initiative Actions — 160 
+- Chapter 9: Adventuring — 161
+	- Carrying Capacity — 161 
+	- Movement — 162
+	- Exploration — 164 
+	- Treasure — 167 
+	- Other Rewards — 168 
+- Chapter 10: Magic — 169 
+	- Casting Spells — 169 
+	- Spell Descriptions — 172 
+	- Arcane Spells — 177 
+	- Divine Spells — 179 
+	- Special Abilities — 180 
+- Chapter 11: Spells — 181 
+	- Bard Spells — 181
+	- Cleric Spells — 183 
+	- Cleric Domains — 185 
+	- Druid Spells — 189 
+	- Paladin Spells — 191 
+	- Ranger Spells — 191 
+	- Sorcerer/Wizard Spells — 192 
+	- Spells — 196
+- Appendix: General Guidelines and Glossary — 304
+- Index — 315
+- Character Sheet — 318 
+- Polymorph Subschool — 320

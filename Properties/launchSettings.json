@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DnDThreePointFive": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

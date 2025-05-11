@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDThreePointFive", "DnDThreePointFive.csproj", "{C45CA159-7680-4485-B504-B209D0E2313F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnDThreePointFiveApp", "..\DnDThreePointFiveApp\DnDThreePointFiveApp.csproj", "{96A3AA7E-F0EA-4A8A-9D35-BB8C9E232708}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C45CA159-7680-4485-B504-B209D0E2313F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C45CA159-7680-4485-B504-B209D0E2313F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C45CA159-7680-4485-B504-B209D0E2313F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A3AA7E-F0EA-4A8A-9D35-BB8C9E232708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A3AA7E-F0EA-4A8A-9D35-BB8C9E232708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A3AA7E-F0EA-4A8A-9D35-BB8C9E232708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A3AA7E-F0EA-4A8A-9D35-BB8C9E232708}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
